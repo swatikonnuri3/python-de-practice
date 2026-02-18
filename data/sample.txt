@@ -1,0 +1,3 @@
+Python File Handling
+Learning read and write modes
+This is a sample file
