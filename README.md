@@ -152,15 +152,6 @@ python-de-practice/
     ├── write.txt
     └── append.txt
 ```
-▶️ How to Run the Code
-
-Make sure you are in the project root directory before running commands.
-
-Run a basic Python file
-python src/basics/variables.py
-
-Example for modules
-python src/modules/main.py
 
 ## 🔧 Version Control
 
