@@ -1,8 +1,3 @@
-"""
-Topic: Data Types in Python
-Author: Swati Konnuri
-"""
-
 name = "Swati"
 age = 21
 cgpa = 9.35

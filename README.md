@@ -5,15 +5,6 @@ Each topic in the syllabus is practiced with clear code examples, and progress i
 
 ---
 
-## 🎯 Purpose of This Repository
-
-- Build strong fundamentals in Python
-- Practice concepts with hands-on code examples
-- Keep learning structured and organized by topic
-- Maintain a personal reference for revision and interviews
-
----
-
 ## 📘 Syllabus
 
 ### 1. Introduction to Programming
@@ -161,18 +152,19 @@ python-de-practice/
     ├── write.txt
     └── append.txt
 ```
+▶️ How to Run the Code
 
+Make sure you are in the project root directory before running commands.
 
-## ▶️ How to Run the Code
-
-Run any file using Python from the project root:
-
-```bash
+Run a basic Python file
 python src/basics/variables.py
-Example for modules:
 
+Example for modules
 python src/modules/main.py
 
-Author
-Swati Konnuri
-Python learner building strong foundations for Data Engineering and software development.
+## 🔧 Version Control
+
+This repository is maintained using Git for version control.  
+Each commit represents incremental learning—either through the addition of new topics or refinement of existing code.  
+The commit history serves as a record of progress and skill development.
+

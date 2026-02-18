@@ -1,7 +1,3 @@
-"""
-Topic: Operators in Python
-Author: Swati Konnuri
-"""
 
 a = 10
 b = 3
