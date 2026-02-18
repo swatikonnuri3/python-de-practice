@@ -1,8 +1,3 @@
-"""
-Topic: Lambda Functions
-Author: Swati Konnuri
-"""
-
 add = lambda a, b: a + b
 square = lambda x: x * x
 
