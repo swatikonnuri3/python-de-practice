@@ -98,69 +98,70 @@ Each topic in the syllabus is practiced with clear code examples, and progress i
 
 ---
 
-## 📂 Repository Structure
+## 📁 Repository Structure
 
 The repository is organized topic-wise.  
 Each folder contains examples and practice code related to that topic.
 
+```text
 python-de-practice/
 │
 ├── README.md
 ├── .gitignore
 │
 ├── src/
-│ ├── basics/
-│ │ ├── variables.py
-│ │ ├── datatypes.py
-│ │ └── operators.py
-│ │
-│ ├── control_flow/
-│ │ └── if_else.py
-│ │
-│ ├── loops/
-│ │ ├── for_loop.py
-│ │ └── while_loop.py
-│ │
-│ ├── functions/
-│ │ ├── functions_intro.py
-│ │ └── function_examples.py
-│ │
-│ ├── modules/
-│ │ ├── math_utils.py
-│ │ ├── string_utils.py
-│ │ └── main.py
-│ │
-│ ├── data_structures/
-│ │ ├── lists.py
-│ │ ├── tuples.py
-│ │ ├── sets.py
-│ │ └── dictionaries.py
-│ │
-│ ├── file_handling/
-│ │ ├── read_modes.py
-│ │ ├── write_modes.py
-│ │ └── with_open_example.py
-│ │
-│ ├── oops/
-│ │ ├── classes_objects/
-│ │ ├── inheritance/
-│ │ ├── encapsulation/
-│ │ └── abstraction/
-│ │
-│ └── exceptions/
-│ ├── basics/
-│ └── advanced/
+│   ├── basics/
+│   │   ├── variables.py
+│   │   ├── datatypes.py
+│   │   └── operators.py
+│   │
+│   ├── control_flow/
+│   │   └── if_else.py
+│   │
+│   ├── loops/
+│   │   ├── for_loop.py
+│   │   └── while_loop.py
+│   │
+│   ├── functions/
+│   │   ├── functions_intro.py
+│   │   └── function_examples.py
+│   │
+│   ├── modules/
+│   │   ├── math_utils.py
+│   │   ├── string_utils.py
+│   │   └── main.py
+│   │
+│   ├── data_structures/
+│   │   ├── lists.py
+│   │   ├── tuples.py
+│   │   ├── sets.py
+│   │   └── dictionaries.py
+│   │
+│   ├── file_handling/
+│   │   ├── read_modes.py
+│   │   ├── write_modes.py
+│   │   └── with_open_example.py
+│   │
+│   ├── oops/
+│   │   ├── classes_objects/
+│   │   ├── inheritance/
+│   │   ├── encapsulation/
+│   │   └── abstraction/
+│   │
+│   └── exceptions/
+│       ├── basics/
+│       └── advanced/
 │
 ├── scripts/
-│ ├── word_count.py
-│ └── log_analyzer.py
+│   ├── word_count.py
+│   └── log_analyzer.py
 │
 └── data/
-├── sample.txt
-├── write.txt
-└── append.txt
+    ├── sample.txt
+    ├── write.txt
+    └── append.txt
+```
 
----
 
 ## ▶️ How to Run the Code
 
